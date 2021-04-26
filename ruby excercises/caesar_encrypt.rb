@@ -52,5 +52,3 @@ class CaesarEncrypt
   end
 end
 
-
-p CaesarEncrypt.call('What a string!', 5)

@@ -20,7 +20,3 @@ class Substrings
     @dictionary = dictionary
   end
 end
-
-
-dictionary = %w[below down go going horn how howdy it i low own part partner sit]
-p Substrings.call("Howdy partner, sit down! How's it going?", dictionary)
