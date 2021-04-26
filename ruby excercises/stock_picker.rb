@@ -36,5 +36,3 @@ class StockPicker
     @stock_prices = stock_prices
   end
 end
-
-p StockPicker.call([17,3,6,9,15,8,6,1,10])
